@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aayushi005/OneDrive/100dayscode/C program/100-days-of-code",
-      "program": "c:/Users/aayushi005/OneDrive/100dayscode/C program/100-days-of-code/build/Debug/outDebug",
+      "cwd": "d:/Code/day2",
+      "program": "d:/Code/day2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
