@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 4c1468896c08d98b26781306c810cc9e58daa722 AayushiSingh005 <aayushi1524@gmail.com> 1759721379 +0530	commit (initial): Initial commit
+4c1468896c08d98b26781306c810cc9e58daa722 0000000000000000000000000000000000000000 AayushiSingh005 <aayushi1524@gmail.com> 1759721460 +0530	Branch: renamed refs/heads/main to refs/heads/main
+4c1468896c08d98b26781306c810cc9e58daa722 4c1468896c08d98b26781306c810cc9e58daa722 AayushiSingh005 <aayushi1524@gmail.com> 1759721460 +0530	Branch: renamed refs/heads/main to refs/heads/main
+4c1468896c08d98b26781306c810cc9e58daa722 ec3fd87554aa78681e616b9037915e518e6bd03e --get <--get> 1759721625 +0530	pull --rebase origin main (start): checkout ec3fd87554aa78681e616b9037915e518e6bd03e
+ec3fd87554aa78681e616b9037915e518e6bd03e 7dc1e913afec398ba4caf0c69948dff6628c99cf --get <--get> 1759721625 +0530	pull --rebase origin main (pick): Initial commit
+7dc1e913afec398ba4caf0c69948dff6628c99cf 7dc1e913afec398ba4caf0c69948dff6628c99cf --get <--get> 1759721625 +0530	pull --rebase origin main (finish): returning to refs/heads/main
