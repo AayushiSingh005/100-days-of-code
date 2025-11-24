@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+    scanf("%d", &n);
+
+    int arr[n];
+    for(int i = 0; i < n; i++)
+        scanf("%d", &arr[i]);
+
+    int max_so_far = arr[0];
+    int curr_sum = arr[0];
+
+    for(int i = 1; i < n; i++) {
+        // either extend current subarray or start new
+        if (curr_sum + arr[i] < arr[i])
+            curr_sum = arr[i];
+        else
+            curr_sum += arr[i];
+
+        // update global max
+        if (curr_sum > max_so_far)
+            max_so_far = curr_sum;
+    }
+
+    printf("%d", max_so_far);
+    return 0;
+}
